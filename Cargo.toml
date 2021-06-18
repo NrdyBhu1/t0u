@@ -6,3 +6,4 @@ edition = "2018"
 
 [dependencies]
 glium = { path = '../../thirdparty/glium' }
+image = "0.23.14"
